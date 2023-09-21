@@ -1,3 +1,8 @@
+# Hi there, Eric Faria here. Nice to see you.
+
+
+I'm Eric, developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Brazil</b>, currently working at Bees Bank Brasil.
+
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
