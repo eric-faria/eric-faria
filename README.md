@@ -1,5 +1,5 @@
 # Hi there, Eric Faria here. 
-# Nice to see you.
+## Nice to see you.
 
 I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, currently working at <img src="./bees.png" width="25"/> [Bees Brasil](https://www.linkedin.com/company/beesbrasil/).
 
