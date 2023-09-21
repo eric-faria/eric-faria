@@ -1,7 +1,7 @@
 # Hi there, Eric Faria here. Nice to see you.
 
 
-I'm Eric, developer from <img src="https://img.freepik.com/free-vector/illustration-brazil-flag_53876-27017.jpg" width="20"/> <b>Brazil</b>, currently working at [Bees](https://www.linkedin.com/company/beesbrasil/). 
+I'm Eric, developer from <img src="./brazil.png" width="13"/><b>Brazil</b>, currently working at <img src="./bees.png" width="13"/>[Bees Brasil](https://www.linkedin.com/company/beesbrasil/).
 
 ## 🚀💻 Technologies & Tools
 
