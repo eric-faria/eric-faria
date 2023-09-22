@@ -47,6 +47,7 @@ I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b
 ![MacOs](https://img.shields.io/badge/MacOS-MacOS?style=flat-square&logo=macos&color=black&logoColor=white)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=black&logoColor=E95420)
  ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=windows&color=black&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-Bash?style=flat-square&logo=gnubash&color=black&logoColor=4EAA25)
 
  ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=black&logoColor=4A154B)
   ![Discord](https://img.shields.io/badge/Discord-Discord?style=flat-square&logo=discord&color=black&logoColor=5865F2)
