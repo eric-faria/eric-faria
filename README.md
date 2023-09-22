@@ -16,6 +16,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=black&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/ApachaMaven-ApacheMaven?style=flat-square&logo=apachemaven&color=black&logoColor=C71A36)
   ![NPM](https://img.shields.io/badge/NPM-NPM?style=flat-square&logo=npm&color=black&logoColor=CB3837)
+    ![PNPM](https://img.shields.io/badge/PNPM-PNPM?style=flat-square&logo=pnpm&color=black&logoColor=F69220)
 
   ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=black&logoColor=25A162)
   ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=black&logoColor=C21325)
