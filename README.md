@@ -28,7 +28,8 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat-square&logo=postgresql&color=black&logoColor=4169E1)
   ![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=flat-square&logo=mysql&color=black&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-Redis?style=flat-square&logo=redis&color=black&logoColor=DC382D)
-  
+
+![DataGrip](https://img.shields.io/badge/DataGrip-DataGrip?style=flat-square&logo=datagrip&color=black&logoColor=white)  
 
   ![Apache Kafka](https://img.shields.io/badge/ApacheKafka-ApachaKafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
  
