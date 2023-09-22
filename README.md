@@ -28,6 +28,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   ![Spring Security](https://img.shields.io/badge/Spring_Security-Spring_Security?style=flat-square&logo=springsecurity&color=black&logoColor=green)
   ![Express](https://img.shields.io/badge/Express-Express?style=flat-square&logo=express&color=black&logoColor=white)
 
+![HTML](https://img.shields.io/badge/HTML-HTML?style=flat-square&logo=html&color=black&logoColor=E34F26)
   ![React](https://img.shields.io/badge/React-React?style=flat-square&logo=react&color=black&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-Reduxt?style=flat-square&logo=redux&color=black&logoColor=764ABC) 
 
