@@ -2,6 +2,8 @@
 
 I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b>, currently working as a __Backend Developer__ _@_ <img src="./img/bees.png" width="20"/> [BEES (AB-inBev)](https://www.beesbank.com.br/).
 
+__Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
+
 ## 🚀💻 Technologies & Tools
  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
