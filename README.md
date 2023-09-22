@@ -30,4 +30,5 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&color=black&logoColor=blue)
 
+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=black&logoColor=E95420)
 
