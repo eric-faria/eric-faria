@@ -24,8 +24,10 @@ I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b
   ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-SpringBoot?style=flat-square&logo=springboot&color=black&logoColor=green)
   ![Spring Security](https://img.shields.io/badge/SpringSecurity-SpringSecurity?style=flat-square&logo=springsecurity&color=black&logoColor=green)
+  ![Express](https://img.shields.io/badge/Express-Express?style=flat-square&logo=express&color=black&logoColor=white)
 
   ![React](https://img.shields.io/badge/React-React?style=flat-square&logo=react&color=black&logoColor=white)  
+  ![Redux](https://img.shields.io/badge/React-React?style=flat-square&logo=redux&color=black&logoColor=764ABC) 
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&color=black&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat-square&logo=postgresql&color=black&logoColor=4169E1)
