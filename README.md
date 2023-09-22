@@ -16,6 +16,8 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![NPM](https://img.shields.io/badge/NPM-NPM?style=flat-square&logo=npm&color=black&logoColor=CB3837)
 
   ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=black&logoColor=25A162)
+  ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=junit5&color=black&logoColor=C21325)
+
 
   ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-SpringBoot?style=flat-square&logo=springboot&color=black&logoColor=green)
@@ -36,3 +38,4 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
  ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=ubuntu&color=black&logoColor=white)
 
  ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=black&logoColor=4A154B)
+ ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=black&logoColor=0B5CFF)
