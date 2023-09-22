@@ -18,12 +18,17 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=black&logoColor=25A162)
   ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=black&logoColor=C21325)
 
-
   ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-SpringBoot?style=flat-square&logo=springboot&color=black&logoColor=green)
   ![Spring Security](https://img.shields.io/badge/SpringSecurity-SpringSecurity?style=flat-square&logo=springsecurity&color=black&logoColor=green)
 
   ![React](https://img.shields.io/badge/React-React?style=flat-square&logo=react&color=black&logoColor=white)  
+
+  ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&color=black&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat-square&logo=postgresql&color=black&logoColor=4169E1)
+  ![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=flat-square&logo=mysql&color=black&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-Redis?style=flat-square&logo=redis&color=black&logoColor=DC382D)
+  
 
   ![Apache Kafka](https://img.shields.io/badge/ApacheKafka-ApachaKafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
  
