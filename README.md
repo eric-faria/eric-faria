@@ -1,6 +1,6 @@
-# Hi there, Eric Faria here. Nice to see you !
+![Header](./img/github-header-image.png)
 
-I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, currently working at <img src="./bees.png" width="25"/> [Bees](https://www.linkedin.com/company/beesbrasil/).
+I'm Eric, developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b>, currently working at <img src="./img/bees.png" width="25"/> [Bees](https://www.linkedin.com/company/beesbrasil/).
 
 ## 🚀💻 Technologies & Tools
 
