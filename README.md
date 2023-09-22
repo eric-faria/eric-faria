@@ -6,7 +6,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=437291)
   ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=black)
   ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=black)
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=black)
