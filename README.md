@@ -44,6 +44,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
  ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=ubuntu&color=black&logoColor=white)
 
  ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=black&logoColor=4A154B)
+  ![Discord](https://img.shields.io/badge/Discord-Discord?style=flat-square&logo=discord&color=black&logoColor=5865F2)
  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=black&logoColor=0B5CFF)
 
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&color=black&logoColor=0A66C2)
