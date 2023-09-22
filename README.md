@@ -48,4 +48,3 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=black&logoColor=0B5CFF)
 
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&color=black&logoColor=0A66C2)
-
