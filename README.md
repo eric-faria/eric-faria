@@ -23,4 +23,6 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&logoColor=blue)
+
 
