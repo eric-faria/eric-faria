@@ -5,7 +5,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&color=black&logo=github)
   
 ![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=black&logoColor=437291)
   ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=black)
