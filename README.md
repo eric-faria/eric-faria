@@ -1,6 +1,6 @@
 ![Header](./img/github-header-image.png)
 
-I'm Eric, developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b>, currently working as a __Backend Developer__ _@_ <img src="./img/bees.png" width="20"/> [BEES (AB-inBev)](https://www.beesbank.com.br/).
+I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b>, currently working as a __Backend Developer__ _@_ <img src="./img/bees.png" width="20"/> [BEES (AB-inBev)](https://www.beesbank.com.br/).
 
 ## 🚀💻 Technologies & Tools
 
