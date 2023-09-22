@@ -59,4 +59,3 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
  ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
    [![E-mail](https://img.shields.io/badge/E--mail-E--mail?style=for-the-badge&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
-
