@@ -10,7 +10,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=black)
   ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=black)
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=black)
-  ![Go](https://img.shields.io/badge/Go-Go?style=flat-square&logo=go&color=00ADD8)
+  ![Go](https://img.shields.io/badge/Go-Go?style=flat-square&logo=go&color=black&logoColor=00ADD8)
 
   ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=black&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/ApachaMaven-ApacheMaven?style=flat-square&logo=apachemaven&color=black&logoColor=C71A36)
