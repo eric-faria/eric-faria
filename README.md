@@ -3,8 +3,6 @@
 I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b>, currently working as a __Backend Developer__ _@_ <img src="./img/bees.png" width="20"/> [BEES (AB-inBev)](https://www.beesbank.com.br/).
 
 ## 🚀💻 Technologies & Tools
-
-<center>
  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&color=black&logo=github)
@@ -55,8 +53,5 @@ I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b
   ![Discord](https://img.shields.io/badge/Discord-Discord?style=flat-square&logo=discord&color=black&logoColor=5865F2)
  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=black&logoColor=0B5CFF)
 
-
-</center>
- 
-
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&color=black&logoColor=0A66C2)
+ ## 📫 Contact
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
