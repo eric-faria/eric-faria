@@ -16,7 +16,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   ![Go](https://img.shields.io/badge/Go-Go?style=flat-square&logo=go&color=black&logoColor=00ADD8)
 
   ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=black&logoColor=white)
-  ![Apache Maven](https://img.shields.io/badge/ApachaMaven-ApacheMaven?style=flat-square&logo=apachemaven&color=black&logoColor=C71A36)
+  ![Apache Maven](https://img.shields.io/badge/Apache_Maven-Apache_Maven?style=flat-square&logo=apachemaven&color=black&logoColor=C71A36)
   ![NPM](https://img.shields.io/badge/NPM-NPM?style=flat-square&logo=npm&color=black&logoColor=CB3837)
     ![PNPM](https://img.shields.io/badge/PNPM-PNPM?style=flat-square&logo=pnpm&color=black&logoColor=F69220)
 
@@ -24,8 +24,8 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=black&logoColor=C21325)
 
   ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-SpringBoot?style=flat-square&logo=springboot&color=black&logoColor=green)
-  ![Spring Security](https://img.shields.io/badge/SpringSecurity-SpringSecurity?style=flat-square&logo=springsecurity&color=black&logoColor=green)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=flat-square&logo=springboot&color=black&logoColor=green)
+  ![Spring Security](https://img.shields.io/badge/Spring_Security-Spring_Security?style=flat-square&logo=springsecurity&color=black&logoColor=green)
   ![Express](https://img.shields.io/badge/Express-Express?style=flat-square&logo=express&color=black&logoColor=white)
 
   ![React](https://img.shields.io/badge/React-React?style=flat-square&logo=react&color=black&logoColor=white)
@@ -38,7 +38,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
 ![DataGrip](https://img.shields.io/badge/DataGrip-DataGrip?style=flat-square&logo=datagrip&color=black&logoColor=white)  
 
-  ![Apache Kafka](https://img.shields.io/badge/ApacheKafka-ApachaKafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Apacha_Kafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=black&logoColor=blue)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
@@ -57,4 +57,4 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
  ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
-   [![E-mail](https://img.shields.io/badge/Email-Email?style=for-the-badge&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
+   [![E-mail](https://img.shields.io/badge/E--mail-E--mail?style=for-the-badge&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
