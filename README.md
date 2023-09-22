@@ -12,7 +12,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=black)
     
     
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=black)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=black&logoColor=#007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
