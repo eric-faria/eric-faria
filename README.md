@@ -12,6 +12,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=black)
 
   ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=black&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/ApachaMaven-ApacheMaven?style=flat-square&logo=apachemaven&color=black&logoColor=C71A36)
   ![NPM](https://img.shields.io/badge/NPM-NPM?style=flat-square&logo=npm&color=black&logoColor=CB3837)
 
   ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=black&logoColor=25A162)
@@ -31,4 +32,4 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&color=black&logoColor=blue)
 
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=black&logoColor=E95420)
-
+ ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=ubuntu&color=black&logoColor=white)
