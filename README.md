@@ -55,4 +55,4 @@ I'm Eric, a developer from <img src="./img/brazil.png" width="25"/> <b>Brazil</b
 
  ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
-   [![E-mail](https://img.shields.io/badge/E\-mail-E\-mail?style=flat-square&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
+   [![E-mail](https://img.shields.io/badge/E\-mail?style=flat-square&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
