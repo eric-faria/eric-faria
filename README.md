@@ -11,7 +11,7 @@ I'm Eric, developer from <img src="./brazil.png" width="25"/> <b>Brazil</b>, cur
   ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=black)
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=black)
 
-  ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)  
+  ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-SpringBoot?style=flat-square&logo=springboot&color=black&logoColor=green)  
  
   ![Apache Kafka](https://img.shields.io/badge/Kafka=Kafka?style=flat-square&logo=apachekafka&color=black&logoColor=white)  
