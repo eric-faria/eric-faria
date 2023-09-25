@@ -60,7 +60,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
    [![E-mail](https://img.shields.io/badge/E--mail-E--mail?style=for-the-badge&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
 
-   
+   ## 📊📈 Statistics
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-faria&theme=transparent&size_weight=0&count_weight=1&layout=compact">
   <img align="center" width=47% src="https://github-readme-stats.vercel.app/api?username=eric-faria&theme=transparent&show_icons=true&rank_icon=github">  
