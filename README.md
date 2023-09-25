@@ -56,6 +56,8 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   ![Discord](https://img.shields.io/badge/Discord-Discord?style=flat-square&logo=discord&color=black&logoColor=5865F2)
  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=black&logoColor=0B5CFF)
 
+ ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&color=black&logoColor=0052CC)
+
  ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
    [![E-mail](https://img.shields.io/badge/E--mail-E--mail?style=for-the-badge&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
