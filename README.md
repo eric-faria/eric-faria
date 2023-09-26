@@ -72,6 +72,3 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
  <img align="center" width=47% src="https://github-readme-stats.vercel.app/api?username=eric-faria&theme=transparent&show_icons=true&rank_icon=github">  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-faria&theme=transparent&size_weight=0&count_weight=1&layout=compact">
 </p>
-
-## 🏆🏅 Achievements
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b36d3e2b-06fb-4602-b3e2-d0f75ad451e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
