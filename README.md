@@ -65,24 +65,23 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
  ## 🏆🏅 Achievements 
  <div>
-  <a href="https://www.credly.com/badges/e59506e4-d328-4533-a3c6-48a8dcb03568/public_url" title="Reactive Architecture: Reactive Microservices - Level 2">  
+  <a href="https://www.credly.com/badges/e59506e4-d328-4533-a3c6-48a8dcb03568/public_url" title="Reactive Architecture: Reactive Microservices - Level 2">    
   <img width=130 src="./img/badges/reactive-architecture-reactive-microservices-level-2.png" alt="Reactive Architecture: Reactive Microservices - Level 2"/>
   </a>
- <a href="https://www.credly.com/badges/b8184789-e2ef-4b9b-9a8c-eddf147e8a89/public_url" title="Reactive Architecture: Domain Driven Design - Level 2">  
+ <a href="https://www.credly.com/badges/b8184789-e2ef-4b9b-9a8c-eddf147e8a89/public_url" title="Reactive Architecture: Domain Driven Design - Level 2">    
   <img width=130 src="./img/badges/reactive-architecture-domain-driven-design-level-2.png" alt="Reactive Architecture: Domain Driven Design - Level 2"/>
   </a>
-  <a href="https://www.credly.com/badges/29e257d5-8453-4086-a196-0e3fc90615e8/public_url" title="Reactive Architecture: Introduction to Reactive Systems - Level 2">  
+  <a href="https://www.credly.com/badges/29e257d5-8453-4086-a196-0e3fc90615e8/public_url" title="Reactive Architecture: Introduction to Reactive Systems - Level 2">    
   <img width=130 src="./img/badges/reactive-architecture-introduction-to-reactive-systems-level-2.png" alt="Reactive Architecture: Introduction to Reactive Systems - Level 2"/>
   </a>  
   <br/>
-  <br/>
-  <a href="https://www.credly.com/badges/041936e2-93f4-4149-9ad8-90c9750ab14f/public_url" title="Network Security">  
+  <a href="https://www.credly.com/badges/041936e2-93f4-4149-9ad8-90c9750ab14f/public_url" title="Network Security">    
   <img width=130 src="./img/badges/network-security.png" alt="Network Security"/>
   </a>
- <a href="https://www.credly.com/badges/3cc843d0-f707-41a0-af57-7225c3276575/public_url" title="CCNA: Introduction to Networks">  
+ <a href="https://www.credly.com/badges/3cc843d0-f707-41a0-af57-7225c3276575/public_url" title="CCNA: Introduction to Networks">    
   <img width=130 src="./img/badges/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks"/>
 </a>
- <a href="https://www.credly.com/badges/b36d3e2b-06fb-4602-b3e2-d0f75ad451e1/public_url" title="Networking Academy Learn-A-Thon 2022">  
+ <a href="https://www.credly.com/badges/b36d3e2b-06fb-4602-b3e2-d0f75ad451e1/public_url" title="Networking Academy Learn-A-Thon 2022">    
   <img width=130 src="./img/badges/networking-academy-learn-a-thon-2022.png" alt="Networking Academy Learn-A-Thon 2022"/>
 </a>
 
