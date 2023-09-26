@@ -63,6 +63,12 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&color=black&logoColor=0052CC)
 
+ ## Achievements 
+ <a href="https://www.credly.com/badges/b36d3e2b-06fb-4602-b3e2-d0f75ad451e1/public_url" title="Networking Academy Learn-A-Thon 2022">
+  <img width=25 src="./img/badges/networking-academy-learn-a-thon-2022.png" alt="Networking Academy Learn-A-Thon 2022"/>
+</a>
+
+
  ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
    [![E-mail](https://img.shields.io/badge/E--mail-E--mail?style=for-the-badge&logo=gmail&color=black&logoColor=EA4335)](mailto:ericdeofaria@gmail.com)
