@@ -64,8 +64,17 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&color=black&logoColor=0052CC)
 
  ## 🏆🏅 Achievements 
+
+
+ 
+  <a href="https://www.credly.com/badges/041936e2-93f4-4149-9ad8-90c9750ab14f/public_url" title="Network Security">
+  <img width=135 src="./img/badges/network-security.png" alt="Network Security"/>
+</a>
  <a href="https://www.credly.com/badges/b36d3e2b-06fb-4602-b3e2-d0f75ad451e1/public_url" title="Networking Academy Learn-A-Thon 2022">
   <img width=135 src="./img/badges/networking-academy-learn-a-thon-2022.png" alt="Networking Academy Learn-A-Thon 2022"/>
+</a>
+ <a href="https://www.credly.com/badges/3cc843d0-f707-41a0-af57-7225c3276575/public_url" title="CCNA: Introduction to Networks">
+  <img width=135 src="./img/badges/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks"/>
 </a>
 
 
