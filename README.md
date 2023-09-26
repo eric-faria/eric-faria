@@ -65,7 +65,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
  ## Achievements 
  <a href="https://www.credly.com/badges/b36d3e2b-06fb-4602-b3e2-d0f75ad451e1/public_url" title="Networking Academy Learn-A-Thon 2022">
-  <img width=250 src="./img/badges/networking-academy-learn-a-thon-2022.png" alt="Networking Academy Learn-A-Thon 2022"/>
+  <img width=135 src="./img/badges/networking-academy-learn-a-thon-2022.png" alt="Networking Academy Learn-A-Thon 2022"/>
 </a>
 
 
