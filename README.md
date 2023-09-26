@@ -64,6 +64,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&color=black&logoColor=0052CC)
 
  ## 🏆🏅 Achievements 
+ <div>
   <a href="https://www.credly.com/badges/e59506e4-d328-4533-a3c6-48a8dcb03568/public_url" title="Reactive Architecture: Reactive Microservices - Level 2">
   <img width=150 src="./img/badges/reactive-architecture-reactive-microservices-level-2.png" alt="Reactive Architecture: Reactive Microservices - Level 2"/>
   </a>
@@ -73,6 +74,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   <a href="https://www.credly.com/badges/29e257d5-8453-4086-a196-0e3fc90615e8/public_url" title="Reactive Architecture: Introduction to Reactive Systems - Level 2">
   <img width=150 src="./img/badges/reactive-architecture-introduction-to-reactive-systems-level-2.png" alt="Reactive Architecture: Introduction to Reactive Systems - Level 2"/>
   </a>  
+  <br/>
   <a href="https://www.credly.com/badges/041936e2-93f4-4149-9ad8-90c9750ab14f/public_url" title="Network Security">
   <img width=150 src="./img/badges/network-security.png" alt="Network Security"/>
   </a>
@@ -83,6 +85,8 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   <img width=150 src="./img/badges/networking-academy-learn-a-thon-2022.png" alt="Networking Academy Learn-A-Thon 2022"/>
 </a>
 
+ </div>
+  
 
  ## 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=for-the-badge&logo=linkedin&color=black&logoColor=0A66C2)](https://www.linkedin.com/in/eric-faria/)
