@@ -40,12 +40,17 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 ![DataGrip](https://img.shields.io/badge/DataGrip-DataGrip?style=flat-square&logo=datagrip&color=black&logoColor=white)  
 
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Apacha_Kafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
+
+  ![Snyk](https://img.shields.io/badge/Snyk-111111?style=flat-square&logo=snyk&color=black&logoColor=4C4A73)
  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=black&logoColor=blue)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&color=black&logoColor=blue)
+
+   ![New Relic](https://img.shields.io/badge/NewRelic-111111?style=flat-square&logo=newrelic&color=black&logoColor=1CE783)
+  ![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&color=black&logoColor=F46800)
 
 ![MacOs](https://img.shields.io/badge/MacOS-MacOS?style=flat-square&logo=macos&color=black&logoColor=white)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=black&logoColor=E95420)
