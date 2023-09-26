@@ -73,8 +73,6 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
   <a href="https://www.credly.com/badges/29e257d5-8453-4086-a196-0e3fc90615e8/public_url" title="Reactive Architecture: Introduction to Reactive Systems - Level 2">
   <img width=150 src="./img/badges/reactive-architecture-introduction-to-reactive-systems-level-2.png" alt="Reactive Architecture: Introduction to Reactive Systems - Level 2"/>
   </a>  
-
-
   <a href="https://www.credly.com/badges/041936e2-93f4-4149-9ad8-90c9750ab14f/public_url" title="Network Security">
   <img width=150 src="./img/badges/network-security.png" alt="Network Security"/>
   </a>
