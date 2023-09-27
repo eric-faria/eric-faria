@@ -63,10 +63,10 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&color=black&logoColor=0052CC)
 
-
+<!--
  ## 🎖️🏆 GitHub Trophies
  ![Trophies](https://github-profile-trophy.vercel.app/?username=eric-faria&theme=algolia&column=-1)
-
+-->
   
  ## 🏆🏅 Achievements 
  <div>
