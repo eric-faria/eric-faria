@@ -65,10 +65,7 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
 
  ## 🎖️🏆 GitHub Trophies
- <div>
-   <img align="left" src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
-  <br />
- </div>
+ ![Trophies](https://github-profile-trophy.vercel.app/?username=eric-faria&theme=algolia&column=-1)
 
   
  ## 🏆🏅 Achievements 
