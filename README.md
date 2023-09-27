@@ -63,12 +63,13 @@ __Curious fact:__ <img src="./img/coffee.png" width="25"/> I love coffee.
 
  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&color=black&logoColor=0052CC)
 
- # 🎖️🏆 GitHub Trophies
-<p>
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
-</p>
-<br/>
+ ## 🎖️🏆 GitHub Trophies
+ <div>
+   <img align="left" src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
+  <br />
+ </div>
 
+  
  ## 🏆🏅 Achievements 
  <div>
   <a href="https://www.credly.com/badges/e59506e4-d328-4533-a3c6-48a8dcb03568/public_url" title="Reactive Architecture: Reactive Microservices - Level 2">    
